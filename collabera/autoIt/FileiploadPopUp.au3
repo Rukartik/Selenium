@@ -1,0 +1,6 @@
+Send("C:\Users\karti\Dropbox\MyPC\Desktop\interview question.pdf")
+Sleep(1000)
+Send("{TAB}")
+Sleep(1000)
+Send("{TAB}")
+Send("{ENTER}")
